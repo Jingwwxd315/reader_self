@@ -1,0 +1,8 @@
+flask
+chardet
+ebooklib
+beautifulsoup4
+lxml
+PyMuPDF
+python-docx
+pywebview

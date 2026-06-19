@@ -1,0 +1,22 @@
+# 构建产物
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# 本地书籍数据（不上传）
+books/*
+!books/.gitkeep
+
+# 编辑器 / 工具
+.claude/
+.idea/
+.vscode/
